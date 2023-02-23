@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39975849604",
+    "project_id": "finstagram-21d5c",
+    "storage_bucket": "finstagram-21d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39975849604:android:7073861e946325e731fcd1",
+        "android_client_info": {
+          "package_name": "com.example.finstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39975849604-plj2g225de3oob4h9t85njlfknho0mi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrVuLNPQ5J191G6RmBdSOk2bU0QT-kDBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39975849604-plj2g225de3oob4h9t85njlfknho0mi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

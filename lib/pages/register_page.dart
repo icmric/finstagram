@@ -156,7 +156,6 @@ class _registerPageState extends State<RegisterPage> {
   void _registerUser() {
     if (_registerFormKey.currentState!.validate() && _image != null) {
       _registerFormKey.currentState!.save();
-      print("Saved");
     }
   }
 }
